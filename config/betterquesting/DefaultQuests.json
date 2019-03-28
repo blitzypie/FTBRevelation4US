@@ -4862,12 +4862,8 @@
           "isMain:8": "false",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "minecolonies:blockhuttownhall",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "minecolonies:blockhuttownhall"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -4896,22 +4892,14 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "minecolonies:blockhutbuilder",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "minecolonies:blockhutbuilder"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "minecolonies:blockhutcitizen",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "minecolonies:blockhutcitizen"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -4931,12 +4919,8 @@
               "Damage:3": 0
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "minecolonies:blockhutguardtower",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "minecolonies:blockhutguardtower"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -20486,7 +20470,7 @@
               "Damage:3": 0
             },
             "2:10": {
-              "id:8": "minecraft:diamond_block",
+              "id:8": "minecraft:diamond",
               "Count:3": 2,
               "OreDict:8": "",
               "Damage:3": 0
