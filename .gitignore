@@ -19,3 +19,5 @@ config/InvTweaks\.cfg
 config/splash\.properties
 
 config/thaumicjei_itemstack_aspects\.json
+
+config/astralsorcery/amulet_enchantments\.cfg
