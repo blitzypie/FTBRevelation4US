@@ -7,3 +7,15 @@
 !/config/**
 # You can be specific with these rules
 !.gitignore
+
+config/jei/worldSettings\.cfg
+
+config/IC2\.ini
+
+config/ichunutil\.cfg
+
+config/InvTweaks\.cfg
+
+config/splash\.properties
+
+config/thaumicjei_itemstack_aspects\.json
