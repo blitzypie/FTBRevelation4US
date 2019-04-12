@@ -56609,12 +56609,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:suitworkstation",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:suitworkstation"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -56638,12 +56634,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:suitworkstation",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:suitworkstation"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -56691,12 +56683,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "libvulpes:holoprojector",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "libvulpes:holoprojector"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -56720,12 +56708,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:holoprojector",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:holoprojector"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -57873,12 +57857,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "libvulpes:elitemotor",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "libvulpes:elitemotor"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -58594,12 +58574,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:arcfurnace",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:arcfurnace"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -58623,62 +58599,38 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:arcfurnace",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:arcfurnace"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:blastbrick",
               "Count:3": 81,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:blastbrick"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "2:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:coil0",
               "Count:3": 3,
-              "tag:10": {
-                "orig_meta:3": 4,
-                "orig_id:8": "libvulpes:coil0"
-              },
               "OreDict:8": "",
               "Damage:3": 4
             },
             "3:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:forgepowerinput",
               "Count:3": 3,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:forgepowerinput"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "4:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "5:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 1,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 1
             }
@@ -58728,12 +58680,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:cuttingmachine",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:cuttingmachine"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -58757,62 +58705,38 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:cuttingmachine",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:cuttingmachine"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:sawblade",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:sawblade"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "2:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:motor",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:motor"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "3:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:forgepowerinput",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:forgepowerinput"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "4:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "5:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 1,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 1
             }
@@ -58862,12 +58786,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:precisionassemblingmachine",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:precisionassemblingmachine"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -58891,22 +58811,14 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:precisionassemblingmachine",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:precisionassemblingmachine"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:structuremachine",
               "Count:3": 24,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:structuremachine"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
@@ -58917,52 +58829,32 @@
               "Damage:3": 0
             },
             "3:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:coil0",
               "Count:3": 2,
-              "tag:10": {
-                "orig_meta:3": 4,
-                "orig_id:8": "libvulpes:coil0"
-              },
               "OreDict:8": "",
               "Damage:3": 4
             },
             "4:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:motor",
               "Count:3": 2,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:motor"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "5:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:forgepowerinput",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:forgepowerinput"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "6:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "7:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 1,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 1
             }
@@ -59012,12 +58904,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:crystallizer",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:crystallizer"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -59041,62 +58929,38 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:crystallizer",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:crystallizer"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:iquartzcrucible",
               "Count:3": 6,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:iquartzcrucible"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "2:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:coil0",
               "Count:3": 2,
-              "tag:10": {
-                "orig_meta:3": 4,
-                "orig_id:8": "libvulpes:coil0"
-              },
               "OreDict:8": "",
               "Damage:3": 4
             },
             "3:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:forgepowerinput",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:forgepowerinput"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "4:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "5:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 1,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 1
             }
@@ -59148,12 +59012,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:ic",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:ic"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -59177,12 +59037,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:ic",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:ic"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -59232,12 +59088,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:lathe",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:lathe"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -59261,62 +59113,38 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:lathe",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:lathe"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:structuremachine",
               "Count:3": 2,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:structuremachine"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "2:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:motor",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:motor"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "3:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:forgepowerinput",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:forgepowerinput"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "4:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "5:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 1,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 1
             }
@@ -59366,12 +59194,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:rollingmachine",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:rollingmachine"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -59395,82 +59219,50 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:rollingmachine",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:rollingmachine"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:structuremachine",
               "Count:3": 6,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:structuremachine"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "2:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:coil0",
               "Count:3": 2,
-              "tag:10": {
-                "orig_meta:3": 4,
-                "orig_id:8": "libvulpes:coil0"
-              },
               "OreDict:8": "",
               "Damage:3": 4
             },
             "3:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:motor",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:motor"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "4:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:forgepowerinput",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:forgepowerinput"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "5:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 2,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 2
             },
             "6:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 2,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "7:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 2,
-              "tag:10": {
-                "orig_meta:3": 1,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 1
             }
@@ -59520,12 +59312,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:electrolyser",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:electrolyser"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -59549,62 +59337,38 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:electrolyser",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:electrolyser"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:structuremachine",
               "Count:3": 2,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:structuremachine"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "2:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:coil0",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 4,
-                "orig_id:8": "libvulpes:coil0"
-              },
               "OreDict:8": "",
               "Damage:3": 4
             },
             "3:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:forgepowerinput",
               "Count:3": 2,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:forgepowerinput"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "4:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 2,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 2
             },
             "5:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 2,
-              "tag:10": {
-                "orig_meta:3": 3,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 3
             }
@@ -59654,12 +59418,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:chemicalreactor",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:chemicalreactor"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -59683,82 +59443,50 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:chemicalreactor",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:chemicalreactor"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:structuremachine",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:structuremachine"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "2:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:motor",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:motor"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "3:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:forgepowerinput",
               "Count:3": 2,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:forgepowerinput"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "4:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "5:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 2,
-              "tag:10": {
-                "orig_meta:3": 2,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 2
             },
             "6:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 1,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 1
             },
             "7:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 3,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 3
             }
@@ -59808,12 +59536,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:oxygencharger",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:oxygencharger"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -59837,12 +59561,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:oxygencharger",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:oxygencharger"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -59892,12 +59612,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:gravitycontroller",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:gravitycontroller"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -59921,12 +59637,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:gravitycontroller",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:gravitycontroller"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -59977,12 +59689,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:rocketbuilder",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:rocketbuilder"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -60006,42 +59714,26 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:rocketbuilder",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:rocketbuilder"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:launchpad",
               "Count:3": 9,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:launchpad"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "2:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:structuretower",
               "Count:3": 4,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:structuretower"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "3:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:fuelingstation",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:fuelingstation"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -60092,12 +59784,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:guidancecomputer",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:guidancecomputer"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -60121,52 +59809,32 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:guidancecomputer",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:guidancecomputer"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:planetidchip",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:planetidchip"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "2:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:seat",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:seat"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "3:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:fueltank",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:fueltank"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "4:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:rocketmotor",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:rocketmotor"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -60216,12 +59884,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:warpmonitor",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:warpmonitor"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -60245,12 +59909,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:warpmonitor",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:warpmonitor"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -60301,12 +59961,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:stationbuilder",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:stationbuilder"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -60330,12 +59986,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:stationbuilder",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:stationbuilder"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -60385,12 +60037,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:oxygenvent",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:oxygenvent"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -60414,12 +60062,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:oxygenvent",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:oxygenvent"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -60470,17 +60114,13 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:bucketrocketfuel",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Fluid:10": {
-                  "FluidName:8": "rocketfuel",
-                  "Amount:3": 1000
-                }
-              },
-              "orig_id:8": "advancedrocketry:bucketrocketfuel"
+              "Fluid:10": {
+                "FluidName:8": "rocketfuel",
+                "Amount:3": 1000
+              }
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -60525,12 +60165,11 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
-            "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:spacehelmet"
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
             },
+            "id:8": "advancedrocketry:spacehelmet",
+            "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -60554,42 +60193,26 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:spacehelmet",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:spacehelmet"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:spacechestplate",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:spacechestplate"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "2:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:spaceleggings",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:spaceleggings"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "3:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:spaceboots",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:spaceboots"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -60639,12 +60262,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:satellitebuilder",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:satellitebuilder"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -60668,12 +60287,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:satellitebuilder",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:satellitebuilder"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -60723,12 +60338,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:carbonscrubbercartridge",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:carbonscrubbercartridge"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -60752,22 +60363,14 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:carbonscrubbercartridge",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:carbonscrubbercartridge"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:oxygenscrubber",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:oxygenscrubber"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -60818,12 +60421,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:warpcore",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:warpcore"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -60847,22 +60446,14 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:warpcore",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:warpcore"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:metal0",
               "Count:3": 15,
-              "tag:10": {
-                "orig_meta:3": 7,
-                "orig_id:8": "libvulpes:metal0"
-              },
               "OreDict:8": "",
               "Damage:3": 7
             },
@@ -60873,22 +60464,14 @@
               "Damage:3": 0
             },
             "3:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:structuremachine",
               "Count:3": 4,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:structuremachine"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "4:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -60938,12 +60521,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:ic",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 2,
-              "orig_id:8": "advancedrocketry:ic"
-            },
             "Damage:2": 2,
             "OreDict:8": ""
           },
@@ -60967,12 +60546,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:ic",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 2,
-                "orig_id:8": "advancedrocketry:ic"
-              },
               "OreDict:8": "",
               "Damage:3": 2
             }
@@ -61022,12 +60597,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:planetanalyser",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:planetanalyser"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -61051,12 +60622,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:planetanalyser",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:planetanalyser"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
@@ -61067,42 +60634,26 @@
               "Damage:3": 0
             },
             "2:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:loader",
               "Count:3": 3,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:loader"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "3:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             },
             "4:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:hatch",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 1,
-                "orig_id:8": "libvulpes:hatch"
-              },
               "OreDict:8": "",
               "Damage:3": 1
             },
             "5:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:forgepowerinput",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:forgepowerinput"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -61152,12 +60703,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "advancedrocketry:spacestationchip",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "advancedrocketry:spacestationchip"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -61181,12 +60728,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "advancedrocketry:spacestationchip",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "advancedrocketry:spacestationchip"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -61236,12 +60779,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "libvulpes:productingot",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 7,
-              "orig_id:8": "libvulpes:productingot"
-            },
             "Damage:2": 7,
             "OreDict:8": ""
           },
@@ -61265,12 +60804,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:productingot",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 7,
-                "orig_id:8": "libvulpes:productingot"
-              },
               "OreDict:8": "",
               "Damage:3": 7
             }
@@ -61318,12 +60853,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:manufactory_idle",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:manufactory_idle"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -61368,12 +60899,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "libvulpes:ore0",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 8,
-              "orig_id:8": "libvulpes:ore0"
-            },
             "Damage:2": 8,
             "OreDict:8": ""
           },
@@ -61397,12 +60924,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:ore0",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 8,
-                "orig_id:8": "libvulpes:ore0"
-              },
               "OreDict:8": "",
               "Damage:3": 8
             }
@@ -61452,12 +60975,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "libvulpes:ore0",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "libvulpes:ore0"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -61481,12 +61000,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "libvulpes:ore0",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "libvulpes:ore0"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -61662,12 +61177,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:manufactory_idle",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:manufactory_idle"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -61691,12 +61202,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:manufactory_idle",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:manufactory_idle"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -61728,12 +61235,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:part",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:part"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -61757,12 +61260,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:part",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:part"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -64188,12 +63687,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:part",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 1,
-              "orig_id:8": "nuclearcraft:part"
-            },
             "Damage:2": 1,
             "OreDict:8": ""
           },
@@ -64217,12 +63712,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:part",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 1,
-                "orig_id:8": "nuclearcraft:part"
-              },
               "OreDict:8": "",
               "Damage:3": 1
             }
@@ -64272,12 +63763,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:part",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 2,
-              "orig_id:8": "nuclearcraft:part"
-            },
             "Damage:2": 2,
             "OreDict:8": ""
           },
@@ -64301,12 +63788,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:part",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 2,
-                "orig_id:8": "nuclearcraft:part"
-              },
               "OreDict:8": "",
               "Damage:3": 2
             }
@@ -64356,12 +63839,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:part",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 3,
-              "orig_id:8": "nuclearcraft:part"
-            },
             "Damage:2": 3,
             "OreDict:8": ""
           },
@@ -64385,12 +63864,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:part",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 3,
-                "orig_id:8": "nuclearcraft:part"
-              },
               "OreDict:8": "",
               "Damage:3": 3
             }
@@ -64441,12 +63916,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:alloy_furnace_idle",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:alloy_furnace_idle"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -64470,12 +63941,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:alloy_furnace_idle",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:alloy_furnace_idle"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -64525,12 +63992,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:fuel_reprocessor_idle",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:fuel_reprocessor_idle"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -64554,12 +64017,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:fuel_reprocessor_idle",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:fuel_reprocessor_idle"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -64609,12 +64068,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:extractor_idle",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:extractor_idle"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -64638,12 +64093,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:extractor_idle",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:extractor_idle"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -64693,12 +64144,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:machine_interface",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:machine_interface"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -64722,12 +64169,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:machine_interface",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:machine_interface"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -64777,12 +64220,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:infuser_idle",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:infuser_idle"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -64806,12 +64245,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:infuser_idle",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:infuser_idle"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -64861,12 +64296,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:melter_idle",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:melter_idle"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -64890,12 +64321,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:melter_idle",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:melter_idle"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -64945,12 +64372,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:supercooler_idle",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:supercooler_idle"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -64974,12 +64397,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:supercooler_idle",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:supercooler_idle"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -65029,12 +64448,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:electrolyser_idle",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:electrolyser_idle"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -65058,12 +64473,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:electrolyser_idle",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:electrolyser_idle"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -65113,12 +64524,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:irradiator_idle",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:irradiator_idle"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -65142,12 +64549,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:irradiator_idle",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:irradiator_idle"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -65197,12 +64600,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:ingot_former_idle",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:ingot_former_idle"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -65226,12 +64625,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:ingot_former_idle",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:ingot_former_idle"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -65281,12 +64676,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:pressurizer_idle",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:pressurizer_idle"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -65310,12 +64701,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:pressurizer_idle",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:pressurizer_idle"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -65365,12 +64752,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:isotope_separator_idle",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:isotope_separator_idle"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -65394,12 +64777,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:isotope_separator_idle",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:isotope_separator_idle"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -65449,12 +64828,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:salt_mixer_idle",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:salt_mixer_idle"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -65478,12 +64853,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:salt_mixer_idle",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:salt_mixer_idle"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -65533,12 +64904,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:chemical_reactor_idle",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:chemical_reactor_idle"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -65562,12 +64929,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:chemical_reactor_idle",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:chemical_reactor_idle"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -65617,12 +64980,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:decay_hastener_idle",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:decay_hastener_idle"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -65646,12 +65005,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:decay_hastener_idle",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:decay_hastener_idle"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -65702,12 +65057,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:crystallizer_idle",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:crystallizer_idle"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -65731,12 +65082,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:crystallizer_idle",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:crystallizer_idle"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -65786,12 +65133,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:dissolver_idle",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:dissolver_idle"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -65815,12 +65158,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:dissolver_idle",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:dissolver_idle"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -65870,12 +65209,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:nuclear_furnace_idle",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:nuclear_furnace_idle"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -65899,12 +65234,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:nuclear_furnace_idle",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:nuclear_furnace_idle"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -65955,12 +65286,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:fusion_core",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:fusion_core"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -65984,12 +65311,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:fusion_core",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:fusion_core"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -66040,12 +65363,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:fission_controller_new_fixed",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:fission_controller_new_fixed"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -66069,12 +65388,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:fission_controller_new_fixed",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:fission_controller_new_fixed"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -66124,12 +65439,8 @@
           "visibility:8": "ALWAYS",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "nuclearcraft:upgrade",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "nuclearcraft:upgrade"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -66153,12 +65464,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "nuclearcraft:upgrade",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "nuclearcraft:upgrade"
-              },
               "OreDict:8": "",
               "Damage:3": 0
             }
