@@ -21,3 +21,5 @@ config/splash\.properties
 config/thaumicjei_itemstack_aspects\.json
 
 config/astralsorcery/amulet_enchantments\.cfg
+
+config/pregenerator/ExampleFile\.txt
