@@ -5,6 +5,7 @@
 # Recursively allow files under subtree
 !/mods/**
 !/config/**
+!/scripts/**
 # You can be specific with these rules
 !.gitignore
 
