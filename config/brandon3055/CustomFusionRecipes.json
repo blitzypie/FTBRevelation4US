@@ -1,0 +1,42 @@
+[
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:dragon_heart",
+        "catalyst": "iceandfire:ice_dragon_heart",
+        "energy": 87500000,
+        "tier": 2,
+        "ingredients": [
+            
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_block,1,1",
+            "draconicevolution:draconium_block,1,1",
+            "draconicevolution:draconium_block,1,1",
+            "draconicevolution:draconium_block,1,1"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:dragon_heart",
+        "catalyst": "iceandfire:fire_dragon_heart",
+        "energy": 87500000,
+        "tier": 2,
+        "ingredients": [
+            
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_block,1,1",
+            "draconicevolution:draconium_block,1,1",
+            "draconicevolution:draconium_block,1,1",
+            "draconicevolution:draconium_block,1,1"
+        ]
+    }
+
+]
+
+
+
