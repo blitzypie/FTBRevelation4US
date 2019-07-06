@@ -24,3 +24,7 @@ config/thaumicjei_itemstack_aspects\.json
 config/astralsorcery/amulet_enchantments\.cfg
 
 config/pregenerator/ExampleFile\.txt
+
+config/brandon3055/ResourceCache/
+
+config/jei/bookmarks\.ini
